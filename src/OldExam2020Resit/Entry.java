@@ -6,7 +6,7 @@ public interface Entry {
      * Get title of the entry
      * @ensures result != null;
      */
-    public String getTitle();
+    public String getTitle();//lol
 
     /**
      *  Get average rating
