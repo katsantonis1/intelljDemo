@@ -3,7 +3,7 @@ package DiagnosticTest3;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.List;
 
-public class BuildingTest {///
+public class BuildingTest {////
 
     private Building building;
 
